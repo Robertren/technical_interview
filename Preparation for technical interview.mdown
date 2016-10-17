@@ -1,0 +1,49 @@
+
+# Preparation for technical interview
+## Basic Skills
+* Business problem
+      1. Can you translate business problem into data science
+      2. Do you have instinct for the question to ask (The questions will be vague, they want to ask following.)
+      3. Always involve SQL or big data equvalents but technical implement is not important <br /> Example : Are Teens using Twitter DMs less?
+      <br /> what is usage?  <br />What is a teen?  <br />Relative to? <br /> What does recent mean? Detailed questions.
+      <br /> Finally, this question could turn in to SQL question
+       Always use Groupby. <br />Be careful about 0 count rows. Explicitly state your assumptions.
+       Design questions: how would we test whether it works?
+      4. How to practice SQL?
+       <br /> Use the the product
+      invent questions
+      look at messy, available datasets. NYC open data is great. 
+      A/B test   
+
+* Coding
+      1. Can you write code that actually work/ read?
+      2. Write code on a white board 
+      3. Exactly what they ask software engineer candidates, but the easier version.
+      4. Talk with the questions and ask the details again.
+      5. Tips: 
+          <br /> 1.Start with the simplest thing that could work
+          <br /> 2.Always using hash table 
+          <br /> 3.Crack the coing interview 
+* Probability & statistics 
+       1. Hardest questions to prepare for
+       2. Homework question
+       3. Probability Bayes
+       4. Remain calm, ask for help
+       5. Independent, linear regression and test 
+* Modeling and Machine Learning
+       1. Lots of discussion
+       2. Either a question and ask you to find the data
+       3. What could we use big data for ?  What do we need to consider when using this data? 
+       4. Tell me about a model that you are proud of ? What would you do to improve it if you could revisit it today?
+       5. All data is messy and lies!! Consider the real world -  can you get this data? Are they privacy conderns. This should be a discussion. Start simple . Logistic regression is always right.
+       6. Build models!
+       <br />  kaggle
+## Some tips
+You are the one to solve their problem
+
+Keep them interested 
+
+Confident: i dont know but I would like..
+
+You know how to find 
+## You Important! 
